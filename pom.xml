@@ -27,8 +27,8 @@
     
     <distributionManagement>
         <repository>
-            <id>artifactory-build-info</id>
-            <url>https://trialgqxixl.jfrog.io/artifactory/artifactory-build-info/</url>
+            <id>libs-release-local</id>
+            <url>https://trialgqxixl.jfrog.io/artifactory/libs-release-local/</url>
         </repository>
     </distributionManagement>
     
