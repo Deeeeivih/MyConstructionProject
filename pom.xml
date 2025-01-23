@@ -27,7 +27,7 @@
     
     <distributionManagement>
         <repository>
-            <id>artifactory</id>
+            <id>artifactory-build-info</id>
             <url>https://trialgqxixl.jfrog.io/artifactory/artifactory-build-info/</url>
         </repository>
     </distributionManagement>
